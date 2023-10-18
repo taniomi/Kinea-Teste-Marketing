@@ -1,0 +1,5 @@
+# Ignore ALL files with the types:
+*.csv
+
+# Ignore ALL files in ANY directory named:
+.ipynb_checkpoints/
